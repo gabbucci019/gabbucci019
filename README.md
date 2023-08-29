@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gabbucci019
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, me chamo Gabriel Alves Bucci.
+- 👀 Estou interessado em WEB DESING
+- 🌱 Essa é minha primeira experiência em TI.
+- 💞️ Quero ter o conhecimento em programação.
+- 📫 Geralmente uso o Intagram
 
 <!---
 gabbucci019/gabbucci019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
